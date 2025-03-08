@@ -39,5 +39,3 @@ It also implements **cascading delete** to automatically remove tasks when a use
 - **Cascading delete:** When a user is deleted, all their tasks are removed automatically.
 - **Timestamps:** The `createdAt` field is automatically set when inserting new records.
 - **Task tracking:** Tasks include a boolean field `isDone` to track completion status.
-
-## **Basic SQL Commands**
